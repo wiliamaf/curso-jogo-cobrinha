@@ -1,0 +1,23 @@
+body
+{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    color: rgb(52, 165, 52);
+}
+
+#snake
+{
+    border: darkgreen solid 5px;
+    border-radius: 8px;
+}
+
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
